@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eeximium.github.io/static/css/main.b128f965.css",
+    "main.js": "/eeximium.github.io/static/js/main.65fae465.js",
+    "static/js/453.b05d8aa5.chunk.js": "/eeximium.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/eeximium.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/eeximium.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/S.png": "/eeximium.github.io/static/media/S.16f002b2e2913412af44.png",
+    "static/media/808.jpg": "/eeximium.github.io/static/media/808.9a8d61b1a5714d7ed850.jpg",
+    "static/media/linkedinpp.png": "/eeximium.github.io/static/media/linkedinpp.0b2cf742e9b0d697029e.png",
+    "static/media/co.jpeg": "/eeximium.github.io/static/media/co.76f785af49572ae28436.jpeg",
+    "index.html": "/eeximium.github.io/index.html",
+    "main.b128f965.css.map": "/eeximium.github.io/static/css/main.b128f965.css.map",
+    "main.65fae465.js.map": "/eeximium.github.io/static/js/main.65fae465.js.map",
+    "453.b05d8aa5.chunk.js.map": "/eeximium.github.io/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b128f965.css",
+    "static/js/main.65fae465.js"
+  ]
+}
